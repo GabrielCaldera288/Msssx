@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "da70a64e-63b2-306b-971f-7d8443be4513",
+    "name": "PAPITONY",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e0f54e91-ad07-3cd4-85f2-ef49d2eecd48",
+    "name": "Matikd",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "47584ab5-ebcc-3cb5-9209-eb30a19727e8",
+    "name": "AlterNico_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
